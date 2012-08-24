@@ -1,0 +1,7 @@
+Setting
+
+Gameplay:
+2D-platformer - spring och hoppa mario style.
+
+Powerups, skills, items är möjligt, inget rpg-inslag utan ren skill, fräsh start på varje bana. 
+Ideer: Limited nr of jumps, kan hoppa hursomhelst.
